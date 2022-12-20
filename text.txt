@@ -1,0 +1,1 @@
+I have a MariaDB database name banking. It has 3 tables: accounts, customers, and transactions. The accounts table has 4 columns: account_id, customer_id, type, and balance. The customers table has 3 columns: customer_id, first_name, and last_name. The transactions table has 5 columns: transaction_id, to_account_id, from_account_id, amount, and date_entered.
