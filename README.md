@@ -25,13 +25,13 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterJoshGroban11deleted.PNG)
 
-# afterEditUser:
-
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUser.PNG)
-
 # beforeEditUser:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/beforeEditUser.PNG)
+
+# afterEditUser:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUser.PNG)
 
 # afterEditUserMainPage:
 
