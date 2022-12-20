@@ -17,7 +17,7 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/viewEditDeleteBefore.PNG)
 
-# successCustomerAccountDeleted
+# successCustomerAccountDeletedBobSmith
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted.PNG)
 
