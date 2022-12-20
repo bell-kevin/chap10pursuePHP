@@ -21,6 +21,10 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted.PNG)
 
+# successCustomerAccountDeleted12:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted12.PNG)
+
 # afterJoshGroban11deleted:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterJoshGroban11deleted.PNG)
@@ -40,10 +44,6 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 # canNotDeleteSarahVowellDueToForConstraints:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/canNotDeleteSarahVowellDueToForConstraints.PNG)
-
-# successCustomerAccountDeleted12:
-
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted12.PNG)
 
 == We're Using GitHub Under Protest ==
 
