@@ -13,33 +13,35 @@ Create scripts that interact with the banking database to delete and edit custom
 
 Submission: Submit a .zip file which contains screenshots, your test cases, and your working code.
 
-viewEditDeleteBefore:
+# viewEditDeleteBefore:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/viewEditDeleteBefore.PNG)
 
+# successCustomerAccountDeleted
+
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted.PNG)
 
-afterJoshGroban11deleted:
+# afterJoshGroban11deleted:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterJoshGroban11deleted.PNG)
 
-afterEditUser:
+# afterEditUser:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUser.PNG)
 
-beforeEditUser:
+# beforeEditUser:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/beforeEditUser.PNG)
 
-afterEditUserMainPage:
+# afterEditUserMainPage:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUserMainPage.PNG)
 
-canNotDeleteSarahVowellDueToForConstraints:
+# canNotDeleteSarahVowellDueToForConstraints:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/canNotDeleteSarahVowellDueToForConstraints.PNG)
 
-successCustomerAccountDeleted12:
+# successCustomerAccountDeleted12:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted12.PNG)
 
