@@ -2,7 +2,7 @@
 
 PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
 
-Complete the following from the chapter's Pursue section:
+Complete the following from the chapter's Pursue section, page 336:
 
 Create scripts that interact with the banking database to delete and edit customer accounts. You’ll have to factor in the foreign key constraints in place, which limit, for example, the deletion of customers that still have accounts. 
 
