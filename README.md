@@ -6,10 +6,11 @@ Complete the following from the chapter's Pursue section, page 336:
 
 Create scripts that interact with the banking database to delete and edit customer accounts. You’ll have to factor in the foreign key constraints in place, which limit, for example, the deletion of customers that still have accounts. 
 
-Create a set of test cases that will validate the scripts including foreign key constraints.
-Create the scripts.
-Demonstrate that your scripts work by using the test cases, and running queries that show the contents of the database after each change or deletion.
-Document all of this with screenshots.
+1. Create a set of test cases that will validate the scripts including foreign key constraints.
+2. Create the scripts.
+3. Demonstrate that your scripts work by using the test cases, and running queries that show the contents of the database after each change or deletion.
+4. Document all of this with screenshots.
+
 Submission: Submit a .zip file which contains screenshots, your test cases, and your working code.
 
 == We're Using GitHub Under Protest ==
