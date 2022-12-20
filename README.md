@@ -13,6 +13,36 @@ Create scripts that interact with the banking database to delete and edit custom
 
 Submission: Submit a .zip file which contains screenshots, your test cases, and your working code.
 
+viewEditDeleteBefore:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/viewEditDeleteBefore.PNG)
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted.PNG)
+
+afterJoshGroban11deleted:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterJoshGroban11deleted.PNG)
+
+afterEditUser:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUser.PNG)
+
+beforeEditUser:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/beforeEditUser.PNG)
+
+afterEditUserMainPage:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUserMainPage.PNG)
+
+canNotDeleteSarahVowellDueToForConstraints:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/canNotDeleteSarahVowellDueToForConstraints.PNG)
+
+successCustomerAccountDeleted12:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted12.PNG)
+
 == We're Using GitHub Under Protest ==
 
 This project is currently hosted on GitHub.  This is not ideal; GitHub is a
