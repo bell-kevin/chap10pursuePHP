@@ -1,5 +1,8 @@
 <?php
 
+$page_title = 'Change Your Password';
+include('includes/header.html');
+
 // Connect to the database
 $db_host = "localhost";
 $db_user = "root";
