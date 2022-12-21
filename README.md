@@ -2,7 +2,7 @@
 
 PHP and MySQL for Dynamic Web Sites: Visual QuickPro Guide (5th Edition) Written by Larry Ullman
 
-Contributor: ChatGPT bot from company OpenAI
+Contributor: ChatGPT, a chatBot from company OpenAI
 
 Complete the following from the chapter's Pursue section, page 336:
 
