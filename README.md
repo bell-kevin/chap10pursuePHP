@@ -31,7 +31,7 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new4EditUser.PNG)
 
-# Edit Customer Name - New Name: Peter Burke:
+# Edit Customer Name - New Name: Peter Burke
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new5editUserPeterBurke.PNG)
 
