@@ -15,37 +15,53 @@ Create scripts that interact with the banking database to delete and edit custom
 
 Submission: Submit a .zip file which contains screenshots, your test cases, and your working code.
 
-# viewEditDeleteBefore:
+# Home Page:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/viewEditDeleteBefore.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new1HomePage.PNG)
 
-# successCustomerAccountDeletedBobSmith
+# View Banking Customers:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new2ViewUsers.PNG)
 
-# successCustomerAccountDeleted12:
+# View Customers Sort By First Name:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/successCustomerAccountDeleted12.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new3ViewUsersSortByFirstName.PNG)
 
-# afterJoshGroban11deleted:
+# Edit Customer:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterJoshGroban11deleted.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new4EditUser.PNG)
 
-# beforeEditUser:
+# Edit Customer Name - New Name: Peter Burke:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/beforeEditUser.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new5editUserPeterBurke.PNG)
 
-# afterEditUser:
+# Customer Edited Successfully:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUser.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new6customerEdited.PNG)
 
-# afterEditUserMainPage:
+# Successfully Edited View Customers:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/afterEditUserMainPage.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new7editedViewUsers.PNG)
 
-# canNotDeleteSarahVowellDueToForConstraints:
+# Delete Customer:
 
-![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/canNotDeleteSarahVowellDueToForConstraints.PNG)
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new8deleteCustomer.PNG)
+
+# Yes, Delete Customer:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new9deleteCustomerYes.PNG)
+
+# Can Not Delete Customer:
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new10deleteCustomerCanNotDelete.PNG)
+
+# Delete Customer Success!
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new11deleteCustomerSuccess.PNG)
+
+# Success After Buck Sexton Deletion
+
+![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new12successAfterBuckSextonDeletion.PNG)
 
 == We're Using GitHub Under Protest ==
 
