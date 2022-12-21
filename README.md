@@ -59,7 +59,7 @@ Submission: Submit a .zip file which contains screenshots, your test cases, and 
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new11deleteCustomerSuccess.PNG)
 
-# Success After Buck Sexton Deletion
+# Success After Buck Sexton Deletion:
 
 ![p](https://github.com/bell-kevin/chap10pursuePHP/blob/main/chap10pursue/screenshots/new12successAfterBuckSextonDeletion.PNG)
 
