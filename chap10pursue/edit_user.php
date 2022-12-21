@@ -25,7 +25,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // Update customer in the database
   $query = "UPDATE customers SET first_name='$first_name', last_name='$last_name' WHERE customer_id='$customer_id'";
   if (mysqli_query($conn, $query)) {
-  echo "Success: Customer information updated.";
+  echo "";
   } else {
   echo "Error: Could not update customer information.";
   }
